@@ -1,0 +1,35 @@
+body{
+    Background:url(../tree.jpg);
+    background-repeat:no-repeat;
+    background-size:cover}
+
+
+
+      .login{background:white;
+    color:#ddd;width:450px;
+    padding:40px;overflow:hidden;margin:auto;margin-top:150px;
+    box-shadow:4px 4px 4px  black;}
+
+
+    .login input{background:#ddd;width:95%;display:block;
+    padding:12px;margin-bottom:17px;outline:none;border:none;
+     font-size:14px}
+
+
+.loginbtn{width:100% !important;
+    background:linear-gradient(#25bd25,#1a1818) !important;
+    color:white !important;cursor:pointer}
+
+   .ragisterlink{text-align:center;}
+
+    .ragisterlink span{color:#746767}
+
+
+    .ragisterlink a{color:green;text-decoration:none}
+
+
+    .login h2{
+    color:black ;
+    text-align:center;
+    text-shadow: 1px 1px 1px black
+}
